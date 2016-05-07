@@ -1,12 +1,13 @@
 # CHA---C-header-analysis
 School project, search and analyse functions in .h files.
 
-# Author: Marie Faltusova
+# Credits
+* Author: Marie Faltusova
 * Name: Analysis of C header files
-*	Script: cha.php
-*	Description: This script analyse .h file or directory given by 
-*		           input argument and outputs a XML file containing
-*		           list of functions and their details.
+* Script: cha.php
+* Description: This script analyse .h file or directory given by 
+*              input argument and outputs a XML file containing
+*	     list of functions and their details.
 *	
 
 # Run
