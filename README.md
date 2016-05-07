@@ -8,7 +8,7 @@ School project, search and analyse functions in .h files.
 * Description: This script analyse .h file or directory given by 
 *              input argument and outputs a XML file containing
 *	     list of functions and their details.
-*	
+	
 
 # Run
 Run help: php cha.php --help          Shows options and arguments
